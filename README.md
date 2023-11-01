@@ -1,2 +1,3 @@
 # pong
-Pog but with an n. (in java with LWJGL)
+Pog but with an n. 
+Written in Java using Lightweight Java Game Library
